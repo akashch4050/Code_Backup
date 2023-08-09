@@ -1,0 +1,2 @@
+mkdir /home/testcmi/Upendra/CATIA_V6_Downloader/Downloader/$1
+TCUA_V6_PartNum_based -u=loader -p=loader7 -i=$1 -f1=$1_CAD.txt -f2=$1_Uses.txt -Path=/home/testcmi/Upendra/CATIA_V6_Downloader/Downloader/ -Depth=99

@@ -1,0 +1,2 @@
+mkdir /home/testcmi/Upendra/CATIA_V6_Downloader/Downloader/$1
+TCUA_V6_Inc_Project_based -i=$1 -f1=$1_CAD.txt -f2=$1_Uses.txt -Path=/home/testcmi/Upendra/CATIA_V6_Downloader/Downloader/ -Depth=0 -type=A -From='22-Dec-2017 14:56' -To='23-Jan-2018 14:56'
